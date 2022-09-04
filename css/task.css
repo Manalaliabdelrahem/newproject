@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.home {
+    width: 0%;
+    height: 20px;
+    background-color: brown;
+    padding: 1px;
+}
+.home h1 {
+    display: none;
+    margin-bottom: 30px;
+}
+.home .card {
+    display: none;
+}
